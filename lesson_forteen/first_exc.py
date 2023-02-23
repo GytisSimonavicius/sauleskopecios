@@ -8,3 +8,4 @@ age = int(input("Enter your age: "))
 sex = input("Enter your sex(M/F): ")
 
 logging.info(f"Person entered information. First name: {first_name}, Last name: {last_name}, Age: {age}, Sex: {sex}")
+#
